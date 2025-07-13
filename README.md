@@ -1,8 +1,13 @@
-# Supabase Todo App
+<h1 align="center">Realtime Supabase To Do App</h1>
 
-![Supabase Logo](https://supabase.com/docs/img/supabase-logo.svg)
+<p align="center">A beautiful, realtime Todo App built with React, Vite, and Supabase</p>
 
-**A beautiful, realtime Todo App built with React, Vite, and Supabase**
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+</p>
 
 ---
 
